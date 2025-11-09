@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"SF_Actor1_5","characterIndex":6,"characterName":"SF_Actor3","classId":5,"equips":[2,0,0,3,0],"faceIndex":4,"faceName":"CustomFaces","traits":[],"initialLevel":3,"maxLevel":99,"name":"Luffy","nickname":"Luffy","note":"","profile":""},
+{"id":2,"battlerName":"SF_Actor2_5","characterIndex":4,"characterName":"SF_Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"SF_Actor2","traits":[],"initialLevel":3,"maxLevel":99,"name":"Zolo","nickname":"Zoro","note":"","profile":""}
+]
