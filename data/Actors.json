@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"SF_Actor1_5","characterIndex":6,"characterName":"SF_Actor3","classId":5,"equips":[2,0,0,3,0],"faceIndex":4,"faceName":"CustomFaces","traits":[{"code":43,"dataId":7,"value":1},{"code":43,"dataId":4,"value":1}],"initialLevel":3,"maxLevel":99,"name":"Luffy","nickname":"Luffy","note":"","profile":""},
+{"id":1,"battlerName":"SF_Actor1_5","characterIndex":6,"characterName":"Luffy","classId":5,"equips":[2,0,0,3,0],"faceIndex":4,"faceName":"CustomFaces","traits":[{"code":43,"dataId":7,"value":1},{"code":43,"dataId":4,"value":1}],"initialLevel":3,"maxLevel":99,"name":"Luffy","nickname":"Luffy","note":"","profile":""},
 {"id":2,"battlerName":"SF_Actor2_5","characterIndex":4,"characterName":"SF_Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"SF_Actor2","traits":[{"code":43,"dataId":8,"value":1}],"initialLevel":3,"maxLevel":99,"name":"Roranoa Zolo","nickname":"Zolo","note":"","profile":""}
 ]
