@@ -2,12 +2,18 @@
 
 2. Press Web browsers
 
-3. Look at output location
+3. Look at output location, should be -
 
-C:\Users\Admin\Desktop\OnePieceOT-Web
+C:\Users\Admin\Documents\GitHub
 
-4.Click OK
+4. Click OK -> Overwrite -> OK
 
-5.Paste output location into file explorer
+5. Open GitHub
 
-6.
+6. Commit with a message
+
+7. Push to GitHub
+
+8. Test, may need to wait a minute for it to rebuild on GitHub's servers.
+
+https://liminalsnake.github.io/OnePieceOrangeTown/
