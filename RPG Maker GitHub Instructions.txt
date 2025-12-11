@@ -1,0 +1,13 @@
+1. File -> Deployment
+
+2. Press Web browsers
+
+3. Look at output location
+
+C:\Users\Admin\Desktop\OnePieceOT-Web
+
+4.Click OK
+
+5.Paste output location into file explorer
+
+6.
